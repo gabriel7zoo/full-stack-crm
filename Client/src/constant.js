@@ -1,3 +1,3 @@
 export const constant = {
-    baseUrl: 'cola.brisvimusic.com/'
+    baseUrl: 'https://cola.brisvimusic.com/'
 }
